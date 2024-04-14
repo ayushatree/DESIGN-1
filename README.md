@@ -1,4 +1,4 @@
-Here's a basic README.md template for your "Design 1" project using HTML and CSS:
+
 
 # Design 1
 
